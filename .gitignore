@@ -4,3 +4,7 @@
 *.ipr
 .idea/
 
+# Maven
+mvnw
+mvnw.cmd
+.mvn
